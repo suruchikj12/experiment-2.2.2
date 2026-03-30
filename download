@@ -1,5 +1,2 @@
-JWT_SECRET=banking_super_secret_jwt_key_minimum_32_characters_here
-JWT_REFRESH_SECRET=banking_refresh_secret_key_minimum_32_characters_here
-JWT_EXPIRE=15m
-JWT_REFRESH_EXPIRE=7d
-PORT=5000
+node_modules/
+.env
